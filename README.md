@@ -14,9 +14,9 @@ Welcome to my GitHub profile! I'm a **BSCS student at GCUF** with a passion for 
 ---
 
 ### 💻 Tech Stack
-- **Frontend:** HTML, CSS, SCSS, JavaScript, React.js, Bootstrap, Ant Design
-- **Backend:** Firebase (Firestore, Authentication)
-- **Tools:** Git, VS Code, Figma
+- **Frontend:** HTML, CSS, SCSS, JavaScript, React.js, Bootstrap, Ant Design,React Native
+- **Backend:** Firebase (Firestore, Authentication),mern
+- **Tools:** Git, VS Code, Figma ,cursor
 - **Other Skills:** Responsive Design, Form Validation, State Management (Context API, React Hooks)
 
 ---
