@@ -37,7 +37,7 @@ Check out more of my work [here](https://github.com/sadaqat507?tab=repositories)
 ---
 
 ### 📫 How to Reach Me
-- 📧 Email: sadaqat507@gmail.com
+- 📧 Email: sadaqatali507bscs@gmail.com
 - 🌐 Portfolio: [My Website](#)
 - 💼 LinkedIn: [Sadaqat Ali](#)
 
